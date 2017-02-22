@@ -18,16 +18,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: adongre@apache.org
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/davinash
   instagram:
-  linkedin:
+  linkedin: https://in.linkedin.com/in/avinash-dongre-3ab02b6
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: dongreavinash
+  stackoverflow: http://stackoverflow.com/users/92568/avinash
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
